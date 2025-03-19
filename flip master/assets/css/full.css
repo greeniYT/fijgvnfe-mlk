@@ -1,0 +1,55 @@
+html
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%!important;
+    height: 100%!important;
+}
+
+body
+{
+    background: #000000;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    aspect-ratio: var(--custom-aspect-ratio);
+    position: relative;
+}
+
+.webgl-content, .gm4html5_div_class, #unity-container, #unityContainer, #game, canvas, #app-container, #canvas-container, #gameContainer, #wrapper, #border, #canvas, #MMFCanvas, .MMFDiv
+{
+    width: 100%!important;
+    height: 100%!important;
+    
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-top: auto!important;
+    margin-bottom: auto!important;
+    
+    left: 0!important;
+    top: 0!important;
+    inset: 0!important;
+    transform: none!important; padding: 0!important;
+}
+
+#unity-footer, #unity-fullscreen-button, .footer, #unity-warning
+{
+    display: none!important;
+}
+
+@media (orientation: landscape)
+{
+    body
+    {
+        height: 100vh!important;
+    }
+}
+
+@media (orientation: portrait)
+{
+    body
+    {
+        width: 100vw!important;
+    }
+}
