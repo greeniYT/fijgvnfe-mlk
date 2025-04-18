@@ -1,0 +1,23 @@
+{
+  "companyName": "DefaultCompany",
+  "productName": "Roller Baller",
+  "productVersion": "0.1",
+  "dataUrl": "RollerBallerRelease.data.unityweb",
+  "wasmCodeUrl": "RollerBallerRelease.wasm.code.unityweb",
+  "wasmFrameworkUrl": "RollerBallerRelease.wasm.framework.unityweb",
+  "graphicsAPI": [
+    "WebGL 2.0",
+    "WebGL 1.0"
+  ],
+  "webglContextAttributes": {
+    "preserveDrawingBuffer": false
+  },
+  "splashScreenStyle": "Dark",
+  "backgroundColor": "#000000",
+  "cacheControl": {
+    "default": "must-revalidate"
+  },
+  "developmentBuild": false,
+  "multithreading": false,
+  "unityVersion": "2019.2.0f1"
+}
