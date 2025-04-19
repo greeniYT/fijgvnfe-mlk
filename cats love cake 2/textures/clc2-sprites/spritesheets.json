@@ -1,0 +1,124 @@
+{
+  "textures": [
+    {
+      "image": "spritesheets",
+      "format": "RGBA8888",
+      "size": {
+        "w": 1500,
+        "h": 783
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "unlocks",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 750,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 750,
+            "h": 600
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 750,
+            "h": 600
+          }
+        },
+        {
+          "filename": "cake2",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 808,
+            "h": 183
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 808,
+            "h": 183
+          },
+          "frame": {
+            "x": 0,
+            "y": 600,
+            "w": 808,
+            "h": 183
+          }
+        },
+        {
+          "filename": "unlocks_locked",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 750,
+            "h": 600
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 750,
+            "h": 600
+          },
+          "frame": {
+            "x": 750,
+            "y": 0,
+            "w": 750,
+            "h": 600
+          }
+        },
+        {
+          "filename": "keyboard",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 318,
+            "h": 107
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 318,
+            "h": 107
+          },
+          "frame": {
+            "x": 808,
+            "y": 600,
+            "w": 318,
+            "h": 107
+          }
+        },
+        {
+          "filename": "confetti",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 32
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 32
+          },
+          "frame": {
+            "x": 808,
+            "y": 707,
+            "w": 64,
+            "h": 32
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7"
+  }
+}
