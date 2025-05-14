@@ -39,8 +39,9 @@ const defaultNotches = {
  * @class HorizontalSlider
  * @extends {Phaser.GameObjects.Container}
  */
-class HorizontalSlider extends Phaser.GameObjects.Container {
-    constructor({
+class HorizontalSlider extends Phaser.GameObjects.Container
+{
+    constructor ({
         scene,
         texture = '',
         track = {},
@@ -54,29 +55,27 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         snap = 0,
         originX = 0.5,
         originY = 0.5
-    }) {
+    })
+    {
         super(scene, x, y);
 
-        if (typeof track === 'string') {
-            track = {
-                emptyFrame: track,
-                fullFrame: track
-            };
+        if (typeof track === 'string')
+        {
+            track = { emptyFrame: track, fullFrame: track };
         }
 
-        if (typeof slider === 'string') {
-            slider = {
-                upFrame: slider
-            };
+        if (typeof slider === 'string')
+        {
+            slider = { upFrame: slider };
         }
 
-        if (typeof notches === 'string') {
-            notches = {
-                frame: notches
-            };
+        if (typeof notches === 'string')
+        {
+            notches = { frame: notches };
         }
 
-        if (track.hasOwnProperty('frame')) {
+        if (track.hasOwnProperty('frame'))
+        {
             track.emptyFrame = track.frame;
             track.fullFrame = track.frame;
         }
@@ -110,7 +109,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         this.jumpDuration = track.jumpDuration;
         this.jumpEase = track.jumpEase;
 
-        if (notches.frame !== '') {
+        if (notches.frame !== '')
+        {
             this.notches = scene.add.image(notches.x, notches.y, texture, notches.frame).setOrigin(0);
 
             this.add(this.notches);
@@ -119,9 +119,12 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         this.trackEmpty = scene.add.image(track.x, track.y, texture, track.emptyFrame).setOrigin(0);
         this.trackFull = scene.add.image(track.x, track.y, texture, track.fullFrame).setOrigin(0);
 
-        if (slider.upFrame !== '') {
+        if (slider.upFrame !== '')
+        {
             this.slider = scene.add.image(slider.x, slider.y, texture, slider.upFrame).setOrigin(0);
-        } else {
+        }
+        else
+        {
             slider.height = this.trackEmpty.height;
 
             slider.x = 0;
@@ -135,7 +138,7 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         this.sliderUpFrame = slider.upFrame;
         this.sliderDownFrame = (slider.downFrame !== '') ? slider.downFrame : slider.upFrame;
 
-        this.add([this.trackEmpty, this.trackFull, this.slider]);
+        this.add([ this.trackEmpty, this.trackFull, this.slider ]);
 
         scene.add.existing(this);
 
@@ -143,9 +146,7 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
 
         this.trackFull.setCrop(this.cropRect);
 
-        this.slider.setInteractive({
-            draggable: true
-        });
+        this.slider.setInteractive({ draggable: true });
 
         this.slider.input.alwaysEnabled = true;
 
@@ -155,7 +156,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
 
         this.sliderWidth = this.slider.width / 2;
 
-        if (this.enableTrackJump) {
+        if (this.enableTrackJump)
+        {
             const hitRect = new Phaser.Geom.Rectangle(0, 0, this.trackEmpty.width, this.trackEmpty.height);
 
             this.setInteractive(hitRect, Phaser.Geom.Rectangle.Contains);
@@ -180,13 +182,16 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    start() {
-        if (!this.enabled) {
+    start ()
+    {
+        if (!this.enabled)
+        {
             this.slider.on('dragstart', this.onDragStart, this);
             this.slider.on('drag', this.onDrag, this);
             this.slider.on('dragend', this.onDragEnd, this);
 
-            if (this.enableTrackJump) {
+            if (this.enableTrackJump)
+            {
                 this.on('pointerdown', this.trackJump, this);
             }
 
@@ -204,13 +209,16 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    stop() {
-        if (this.enabled) {
+    stop ()
+    {
+        if (this.enabled)
+        {
             this.slider.off('dragstart', this.onDragStart, this);
             this.slider.off('drag', this.onDrag, this);
             this.slider.off('dragend', this.onDragEnd, this);
 
-            if (this.enableTrackJump) {
+            if (this.enableTrackJump)
+            {
                 this.off('pointerdown', this.trackJump, this);
             }
 
@@ -230,8 +238,10 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof Button
      */
-    setOrigin(x = 0.5, y = x) {
-        if (x === this._originX && y === this._originY) {
+    setOrigin (x = 0.5, y = x)
+    {
+        if (x === this._originX && y === this._originY)
+        {
             return this;
         }
 
@@ -258,11 +268,13 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         this.sliderRight = (slider.right > 0) ? offsetX + slider.right : offsetX + (width - this.slider.displayWidth);
         this.sliderRange = this.sliderRight - this.sliderLeft;
 
-        if (this.enableTrackJump) {
+        if (this.enableTrackJump)
+        {
             this.input.hitArea.setPosition(offsetX + track.x, offsetY + track.y);
         }
 
-        if (this.notches) {
+        if (this.notches)
+        {
             this.notches.setPosition(offsetX + notches.x, offsetY + notches.y);
         }
 
@@ -275,8 +287,10 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @private
      * @memberof HorizontalSlider
      */
-    onDragStart() {
-        if (this.sliderDownFrame !== '') {
+    onDragStart ()
+    {
+        if (this.sliderDownFrame !== '')
+        {
             this.slider.setFrame(this.sliderDownFrame);
         }
     }
@@ -287,12 +301,15 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @private
      * @memberof HorizontalSlider
      */
-    onDragEnd() {
-        if (this.sliderUpFrame !== '') {
+    onDragEnd ()
+    {
+        if (this.sliderUpFrame !== '')
+        {
             this.slider.setFrame(this.sliderUpFrame);
         }
 
-        if (!this.slideTween || (this.slideTween && !this.slideTween.isPlaying())) {
+        if (!this.slideTween || (this.slideTween && !this.slideTween.isPlaying()))
+        {
             this.emit('complete', this, this.values.current, this.values.percent);
         }
     }
@@ -305,7 +322,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @param {*} x
      * @memberof HorizontalSlider
      */
-    onDrag(pointer, x) {
+    onDrag (pointer, x)
+    {
         x = Phaser.Math.Clamp(x, this.sliderLeft, this.sliderRight);
 
         this.setSlider(Phaser.Math.Percent(x, this.sliderLeft, this.sliderRight));
@@ -319,19 +337,23 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @param {*} x
      * @memberof HorizontalSlider
      */
-    trackJump(pointer, x) {
+    trackJump (pointer, x)
+    {
         //  Center slider on the click
         x = Phaser.Math.Clamp(x - this.sliderWidth, this.sliderLeft, this.sliderRight);
 
         const p = Phaser.Math.Percent(x, this.sliderLeft, this.sliderRight);
 
-        if (this.jumpDuration > 0) {
+        if (this.jumpDuration > 0)
+        {
             //  Work out how long the tween should be based on distance to travel
             const diff = Math.abs(p - this.values.percent);
             const duration = this.jumpDuration * diff;
 
             this.setSlider(p, duration, this.jumpEase);
-        } else {
+        }
+        else
+        {
             this.setSlider(p);
         }
     }
@@ -345,14 +367,17 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @param {string} [ease='linear']
      * @memberof HorizontalSlider
      */
-    setTween(duration = 0, ease = 'linear') {
+    setTween (duration = 0, ease = 'linear')
+    {
         const values = this.values;
 
-        if (this.slideTween && this.slideTween.isPlaying()) {
+        if (this.slideTween && this.slideTween.isPlaying())
+        {
             this.slideTween.stop();
         }
 
-        if (duration > 0) {
+        if (duration > 0)
+        {
             this.slideTween = this.scene.tweens.add({
                 targets: values,
                 current: values.target,
@@ -365,7 +390,9 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
                     this.emit('complete', this, values.current, values.percent);
                 }
             });
-        } else {
+        }
+        else
+        {
             //  There's no tween, so we just set the current value immediately
             this.values.current = this.values.target;
         }
@@ -378,7 +405,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    getValue() {
+    getValue ()
+    {
         return this.values.percent;
     }
 
@@ -390,10 +418,12 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @param {number} value
      * @memberof HorizontalSlider
      */
-    setValue(value) {
+    setValue (value)
+    {
         const values = this.values;
 
-        if (values.snap !== 0) {
+        if (values.snap !== 0)
+        {
             value = Phaser.Math.Snap.Floor(value, values.snap);
 
             //  Re-clamp in case snapped out of range
@@ -416,7 +446,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    setSlider(percent, duration = 0, ease = 'linear') {
+    setSlider (percent, duration = 0, ease = 'linear')
+    {
         this.setValue(Phaser.Math.FromPercent(percent, this.values.min, this.values.max));
 
         this.setTween(duration, ease);
@@ -437,7 +468,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    setSliderByValue(value, duration = 0, ease = 'linear') {
+    setSliderByValue (value, duration = 0, ease = 'linear')
+    {
         this.setValue(Phaser.Math.Clamp(value, this.values.min, this.values.max));
 
         this.setTween(duration, ease);
@@ -445,7 +477,8 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
         return this.updateSlider();
     }
 
-    setSliderByValueForce(value) {
+    setSliderByValueForce (value)
+    {
         this.setValue(Phaser.Math.Clamp(value, this.values.min, this.values.max));
 
         this.values.current = this.values.target;
@@ -460,22 +493,26 @@ class HorizontalSlider extends Phaser.GameObjects.Container {
      * @returns
      * @memberof HorizontalSlider
      */
-    updateSlider(isSkipUpdate) {
+    updateSlider (isSkipUpdate)
+    {
         const values = this.values;
 
         values.percent = Phaser.Math.Percent(values.current, values.min, values.max);
 
         this.slider.x = this.sliderLeft + (values.percent * this.sliderRange);
 
-        if (this.slider.visible) {
+        if (this.slider.visible)
+        {
             this.cropRect.width = (this.sliderRange * values.percent) + (this.slider.width / 2);
-        } else {
+        }
+        else
+        {
             this.cropRect.width = (this.sliderRange * values.percent);
         }
 
         // this.trackFull.setCrop(this.cropRect);
 
-        if (!isSkipUpdate) this.emit('update', this, values.current, values.percent);
+        if(!isSkipUpdate) this.emit('update', this, values.current, values.percent);
 
         return this;
     }

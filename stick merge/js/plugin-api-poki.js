@@ -33,34 +33,34 @@ class PokiApiPlugin extends Phaser.Plugins.BasePlugin {
         // if(MainGame.isDebug) PokiSDK.setDebug(true);
     }
 
-    gameLoadingStart() {
+    gameLoadingStart(){
         PokiSDK.gameLoadingStart();
     }
 
-    gameLoadingFinished() {
+    gameLoadingFinished(){
         PokiSDK.gameLoadingFinished();
     }
 
-    gameLoadingProgress(data) {
+    gameLoadingProgress(data){
         PokiSDK.gameLoadingProgress(data);
     }
 
-    gameplayStart() {
+    gameplayStart(){
         // console.log('=== gameplayStart');
         PokiSDK.gameplayStart();
     }
 
-    gameplayStop() {
+    gameplayStop(){
         // console.log('=== gameplayStop');
         PokiSDK.gameplayStop();
 
     }
 
-    happyTime(value) {
+    happyTime(value){
         PokiSDK.happyTime(value);
     }
 
-    commercialBreak() {
+    commercialBreak(){
         // console.log('=== commercialBreak');
 
         this.api_GamePause();
@@ -73,7 +73,7 @@ class PokiApiPlugin extends Phaser.Plugins.BasePlugin {
         );
     }
 
-    rewardedBreak() {
+    rewardedBreak(){
         // console.log('=== rewardedBreak');
 
         this.api_GamePause();
@@ -87,8 +87,8 @@ class PokiApiPlugin extends Phaser.Plugins.BasePlugin {
         );
     }
 
-    displayAd() {
-        if (this.isBannerAdded) return;
+    displayAd(){
+        if(this.isBannerAdded) return;
         // console.log('=== displayAd');
         // if(game.device.os.desktop){
         //     PokiSDK.displayAd(this.bannerContainer, '728x90');
@@ -100,8 +100,8 @@ class PokiApiPlugin extends Phaser.Plugins.BasePlugin {
         this.isBannerAdded = true;
     }
 
-    destroyAd() {
-        if (!this.isBannerAdded) return;
+    destroyAd(){
+        if(!this.isBannerAdded) return;
         // console.log('=== destroyAd');
         PokiSDK.destroyAd(this.bannerContainer);
         this.isBannerAdded = false;

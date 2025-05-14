@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "zvNJIzei0vJAxuBtaApVB91cwyA",
+	"hash": "HMjHbwW7W5Tr6E6hTBm2x9o4/es",
 	"spine": "3.8.99",
-	"x": -34.48,
-	"y": -1.11,
-	"width": 63.51,
-	"height": 78.9,
+	"x": -23.79,
+	"y": -1.1,
+	"width": 52.61,
+	"height": 84.85,
 	"images": "./images/",
 	"audio": "D:/work/sniper/Spine_NEW"
 },
@@ -144,23 +144,23 @@
 	}
 ],
 "slots": [
-	{ "name": "leg1_R", "bone": "leg1_R", "attachment": "leg1" },
-	{ "name": "leg2_R", "bone": "leg2_R", "attachment": "leg2" },
-	{ "name": "leg3_R", "bone": "leg3_R", "attachment": "leg3" },
-	{ "name": "arm1_R", "bone": "arm1_R", "attachment": "arm1" },
+	{ "name": "leg1_R", "bone": "leg1_R", "attachment": "leg1_R" },
+	{ "name": "leg2_R", "bone": "leg2_R", "attachment": "leg2_R" },
+	{ "name": "leg3_R", "bone": "leg3_R", "attachment": "leg3_R" },
+	{ "name": "arm1_R", "bone": "arm1_R", "attachment": "arm1_R" },
 	{ "name": "body", "bone": "body", "attachment": "body" },
-	{ "name": "leg1_L", "bone": "leg1_L", "attachment": "leg1" },
-	{ "name": "leg2_L", "bone": "leg2_L", "attachment": "leg2" },
-	{ "name": "leg3_L", "bone": "leg3_L", "attachment": "leg3" },
-	{ "name": "arm2_R", "bone": "arm2_R", "attachment": "arm2" },
+	{ "name": "leg1_L", "bone": "leg1_L", "attachment": "leg1_L" },
+	{ "name": "leg2_L", "bone": "leg2_L", "attachment": "leg2_L" },
+	{ "name": "leg3_L", "bone": "leg3_L", "attachment": "leg3_L" },
+	{ "name": "arm2_R", "bone": "arm2_R", "attachment": "arm2_R" },
 	{ "name": "head", "bone": "head", "attachment": "head" },
 	{ "name": "hat", "bone": "head", "attachment": "hat" },
 	{ "name": "gun", "bone": "gun", "attachment": "gun" },
-	{ "name": "arm1_L", "bone": "arm1_L", "attachment": "arm1" },
-	{ "name": "arm2_L", "bone": "arm2_L", "attachment": "arm2" },
-	{ "name": "arm3_R", "bone": "arm3_R", "attachment": "arm3" },
+	{ "name": "arm1_L", "bone": "arm1_L", "attachment": "arm1_L" },
+	{ "name": "arm2_L", "bone": "arm2_L", "attachment": "arm2_L" },
+	{ "name": "arm3_R", "bone": "arm3_R", "attachment": "arm3_R" },
 	{ "name": "gunanfas", "bone": "gun", "attachment": "gunanfas" },
-	{ "name": "arm3_L", "bone": "arm3_L", "attachment": "arm3" }
+	{ "name": "arm3_L", "bone": "arm3_L", "attachment": "arm3_L" }
 ],
 "ik": [
 	{
@@ -177,55 +177,29 @@
 ],
 "skins": [
 	{
-		"name": "default",
+		"name": "stickman1",
 		"attachments": {
 			"arm1_L": {
-				"arm1": { "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
 			},
 			"arm1_R": {
-				"arm1": { "x": 12.01, "y": 0.31, "scaleX": -1, "rotation": 89.33, "width": 14, "height": 35 }
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
 			},
 			"arm2_L": {
-				"arm2": { "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
 			},
 			"arm2_R": {
-				"arm2": { "x": 13.88, "y": -0.04, "rotation": 90, "width": 15, "height": 33 }
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
 			},
 			"arm3_L": {
-				"arm3": { "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
 			},
 			"arm3_R": {
-				"arm3": { "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
 			},
 			"body": {
 				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
 			},
-			"head": {
-				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
-			},
-			"leg1_L": {
-				"leg1": { "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
-			},
-			"leg1_R": {
-				"leg1": { "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
-			},
-			"leg2_L": {
-				"leg2": { "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
-			},
-			"leg2_R": {
-				"leg2": { "x": 13.33, "y": 0.23, "rotation": 82.18, "width": 15, "height": 37 }
-			},
-			"leg3_L": {
-				"leg3": { "x": 3.53, "y": -0.09, "rotation": 179.26, "width": 17, "height": 12 }
-			},
-			"leg3_R": {
-				"leg3": { "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
-			}
-		}
-	},
-	{
-		"name": "stickman1",
-		"attachments": {
 			"gun": {
 				"gun": { "name": "gun1", "x": 23.82, "y": 4.76, "rotation": -177.27, "width": 118, "height": 47 }
 			},
@@ -234,17 +208,59 @@
 			},
 			"hat": {
 				"hat": { "name": "empty", "x": 37.23, "y": 0.32, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
 			}
 		}
 	},
 	{
 		"name": "stickman2",
 		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
 			"gun": {
-				"gun": { "name": "gun2", "x": 31.08, "y": 0.07, "rotation": -177.46, "width": 119, "height": 44 }
+				"gun": { "name": "gun2", "x": 31.08, "y": 0.07, "rotation": 182.54, "width": 119, "height": 44 }
 			},
 			"gunanfas": {
-				"gunanfas": { "name": "gun2_anfas", "x": 6.37, "y": 0.02, "rotation": -164.49, "width": 20, "height": 60 }
+				"gunanfas": { "name": "gun2_anfas", "x": 6.37, "y": 0.02, "rotation": 195.51, "width": 20, "height": 60 }
 			},
 			"hat": {
 				"hat": {
@@ -257,26 +273,110 @@
 					"width": 50,
 					"height": 46
 				}
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
 			}
 		}
 	},
 	{
 		"name": "stickman3",
 		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
 			"gun": {
 				"gun": { "name": "gun3", "x": 13.28, "y": 6.35, "rotation": 179.7, "width": 93, "height": 53 }
 			},
 			"gunanfas": {
-				"gunanfas": { "name": "gun3_anfas", "x": 1.5, "y": 4.98, "rotation": -164.47, "width": 20, "height": 56 }
+				"gunanfas": { "name": "gun3_anfas", "x": 1.5, "y": 4.98, "rotation": 195.53, "width": 20, "height": 56 }
 			},
 			"hat": {
-				"hat": { "name": "empty", "x": 35.13, "y": -0.66, "rotation": -93.12, "width": 12, "height": 12 }
+				"hat": { "name": "empty", "x": 37.23, "y": 0.32, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
 			}
 		}
 	},
 	{
 		"name": "stickman4",
 		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
 			"gun": {
 				"gun": {
 					"name": "gun4",
@@ -289,10 +389,495 @@
 				}
 			},
 			"gunanfas": {
-				"gunanfas": { "name": "gun4_anfas", "x": 1.58, "y": -8.47, "rotation": -164.54, "width": 40, "height": 47 }
+				"gunanfas": { "name": "gun4_anfas", "x": 1.58, "y": -8.47, "rotation": -164.49, "width": 40, "height": 47 }
 			},
 			"hat": {
-				"hat": { "name": "hat2", "x": 28.94, "y": 6.9, "rotation": -87.94, "width": 53, "height": 29 }
+				"hat": { "name": "hat2", "x": 28.94, "y": 6.9, "rotation": -87.93, "width": 53, "height": 29 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_christmas1",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
+			"gun": {
+				"gun": { "name": "gun1", "x": 23.82, "y": 4.76, "rotation": -177.27, "width": 118, "height": 47 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun1_anfas", "x": 3.2, "y": 0.83, "rotation": -164.45, "width": 27, "height": 58 }
+			},
+			"hat": {
+				"hat": { "name": "hat_christmas1", "x": 40.83, "y": -0.24, "rotation": -89.51, "width": 82, "height": 66 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_christmas2",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
+			"gun": {
+				"gun": { "name": "gun2", "x": 31.08, "y": 0.07, "rotation": 182.54, "width": 119, "height": 44 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun2_anfas", "x": 6.37, "y": 0.02, "rotation": 195.51, "width": 20, "height": 60 }
+			},
+			"hat": {
+				"hat": { "name": "hat_christmas2", "x": 35.35, "y": 0.79, "rotation": -90.95, "width": 83, "height": 60 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_christmas3",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
+			"gun": {
+				"gun": { "name": "gun3", "x": 13.28, "y": 6.35, "rotation": 179.7, "width": 93, "height": 53 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun3_anfas", "x": 1.5, "y": 4.98, "rotation": 195.53, "width": 20, "height": 56 }
+			},
+			"hat": {
+				"hat": { "name": "hat_christmas3", "x": 9.72, "y": -2.59, "rotation": -89.51, "width": 56, "height": 91 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_christmas4",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
+			"gun": {
+				"gun": {
+					"name": "gun4",
+					"x": 43.97,
+					"y": -9.44,
+					"scaleY": 0.95,
+					"rotation": 179.77,
+					"width": 162,
+					"height": 47
+				}
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun4_anfas", "x": 1.58, "y": -8.47, "rotation": -164.49, "width": 40, "height": 47 }
+			},
+			"hat": {
+				"hat": { "name": "hat_christmas4", "x": 37.24, "y": -2.65, "rotation": -87.93, "width": 62, "height": 52 }
+			},
+			"head": {
+				"head": { "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 41, "height": 41 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_ghost",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1_ghost", "x": 10.66, "y": 1.69, "rotation": 448.83, "width": 24, "height": 45 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1_ghost", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 24, "height": 45 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2_ghost", "x": 13.71, "y": 1.19, "rotation": 449.49, "width": 25, "height": 44 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2_ghost", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 25, "height": 44 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3_ghost", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 26, "height": 28 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3_ghost", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 26, "height": 28 }
+			},
+			"body": {
+				"body": { "name": "body_ghost", "x": 11.25, "y": -9.36, "rotation": -88.75, "width": 37, "height": 89 }
+			},
+			"gun": {
+				"gun": { "name": "gun2", "x": 31.08, "y": 0.07, "rotation": 182.54, "width": 119, "height": 44 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun2_anfas", "x": 6.37, "y": 0.02, "rotation": 195.51, "width": 20, "height": 60 }
+			},
+			"hat": {
+				"hat": { "name": "empty", "x": 37.23, "y": 0.32, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "name": "head_ghost", "x": 15.23, "y": 0.84, "rotation": 275.26, "width": 51, "height": 51 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1_ghost", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1_ghost", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2_ghost", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2_ghost", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3_ghost", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3_ghost", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_mummy",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1_mummy", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 16, "height": 36 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1_mummy", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 16, "height": 36 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2_mummy", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 17, "height": 34 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2_mummy", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 17, "height": 34 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3_mummy", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3_mummy", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "name": "body_mummy", "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 15, "height": 67 }
+			},
+			"gun": {
+				"gun": { "name": "gun3", "x": 13.28, "y": 6.35, "rotation": 179.7, "width": 93, "height": 53 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun3_anfas", "x": 1.5, "y": 4.98, "rotation": 195.53, "width": 20, "height": 56 }
+			},
+			"hat": {
+				"hat": { "name": "empty", "x": 37.23, "y": 0.32, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "name": "head_mummy", "x": 17.09, "y": 1.43, "rotation": 275.26, "width": 43, "height": 42 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1_mummy", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 15, "height": 36 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1_mummy", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 15, "height": 36 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2_mummy", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 16, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2_mummy", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 16, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3_mummy", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3_mummy", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
+			}
+		}
+	},
+	{
+		"name": "stickman_skeleton",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1_skeleton", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 22, "height": 43 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1_skeleton", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 22, "height": 43 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2_skeleton", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 23, "height": 41 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2_skeleton", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 23, "height": 41 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3_skeleton", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 23, "height": 26 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3_skeleton", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 23, "height": 26 }
+			},
+			"body": {
+				"body": { "name": "body_skeleton", "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 29, "height": 74 }
+			},
+			"gun": {
+				"gun": {
+					"name": "gun4",
+					"x": 43.97,
+					"y": -9.44,
+					"scaleY": 0.95,
+					"rotation": 179.77,
+					"width": 162,
+					"height": 47
+				}
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun4_anfas", "x": 1.58, "y": -8.47, "rotation": -164.49, "width": 40, "height": 47 }
+			},
+			"hat": {
+				"hat": { "name": "empty", "x": 28.94, "y": 6.9, "rotation": -87.93, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "name": "head_skeleton", "x": 13.94, "y": 0.97, "rotation": -86.76, "width": 49, "height": 52 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1_skeleton", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 21, "height": 43 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1_skeleton", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 21, "height": 43 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2_skeleton", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 24, "height": 45 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2_skeleton", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 24, "height": 45 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3_skeleton", "x": 3.53, "y": 1.44, "rotation": 179.42, "width": 25, "height": 20 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3_skeleton", "x": 3.81, "y": -0.08, "rotation": 179.13, "width": 25, "height": 20 }
+			}
+		}
+	},
+	{
+		"name": "stickman_zombie",
+		"attachments": {
+			"arm1_L": {
+				"arm1_L": { "name": "arm1_zombie", "x": 11.25, "y": -0.5, "rotation": 448.83, "width": 14, "height": 35 }
+			},
+			"arm1_R": {
+				"arm1_R": { "name": "arm1_zombie", "x": 10.45, "y": 3.26, "rotation": 94.15, "width": 14, "height": 35 }
+			},
+			"arm2_L": {
+				"arm2_L": { "name": "arm2_zombie", "x": 12.68, "y": 0.3, "rotation": 449.49, "width": 15, "height": 33 }
+			},
+			"arm2_R": {
+				"arm2_R": { "name": "arm2_zombie", "x": 13.5, "y": 0.09, "rotation": 73.86, "width": 15, "height": 33 }
+			},
+			"arm3_L": {
+				"arm3_L": { "name": "arm3_zombie", "x": 3.88, "y": 1.37, "rotation": 90.87, "width": 15, "height": 17 }
+			},
+			"arm3_R": {
+				"arm3_R": { "name": "arm3_zombie", "x": 6.54, "y": 1.51, "rotation": 89.37, "width": 15, "height": 17 }
+			},
+			"body": {
+				"body": { "name": "body_zombie", "x": 20.53, "y": -2.41, "rotation": -88.75, "width": 14, "height": 66 }
+			},
+			"gun": {
+				"gun": { "name": "gun1", "x": 23.82, "y": 4.76, "rotation": -177.27, "width": 118, "height": 47 }
+			},
+			"gunanfas": {
+				"gunanfas": { "name": "gun1_anfas", "x": 3.2, "y": 0.83, "rotation": -164.45, "width": 27, "height": 58 }
+			},
+			"hat": {
+				"hat": { "name": "empty", "x": 37.23, "y": 0.32, "width": 12, "height": 12 }
+			},
+			"head": {
+				"head": { "name": "head_zombie", "x": 17.23, "y": 0.79, "rotation": 275.26, "width": 43, "height": 44 }
+			},
+			"leg1_L": {
+				"leg1_L": { "name": "leg1_zombie", "x": 8.71, "y": -2.16, "rotation": 95.69, "width": 13, "height": 35 }
+			},
+			"leg1_R": {
+				"leg1_R": { "name": "leg1_zombie", "x": 8.23, "y": -1.39, "rotation": 447.84, "width": 13, "height": 35 }
+			},
+			"leg2_L": {
+				"leg2_L": { "name": "leg2_zombie", "x": 13.21, "y": -0.44, "rotation": 79.04, "width": 15, "height": 37 }
+			},
+			"leg2_R": {
+				"leg2_R": { "name": "leg2_zombie", "x": 13.33, "y": 0.23, "rotation": 82.35, "width": 15, "height": 37 }
+			},
+			"leg3_L": {
+				"leg3_L": { "name": "leg3_zombie", "x": 3.53, "y": -0.09, "rotation": 179.42, "width": 17, "height": 12 }
+			},
+			"leg3_R": {
+				"leg3_R": { "name": "leg3_zombie", "x": 3.81, "y": -1.01, "rotation": 179.13, "width": 17, "height": 12 }
 			}
 		}
 	}

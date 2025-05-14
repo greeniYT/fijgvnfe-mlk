@@ -51,6 +51,8 @@
         "privilege"         :   "privilege",
         "basic"             :   "basic",
         "epic"              :   "epic",
+        "legendary"         :   "legendary",
+        "text_legendary"    :   "Unlock legendary hats\nduring special events",
         "buy_new"           :   "buy new",
         "sec"               :   "sec",
         "level"             :   "Level",
@@ -76,6 +78,16 @@
         "sound_off"         :   "sound off",
         "settings"          :   "settings",
         "music_by"          :   "music by",
-        "developed_by"      :   "developed by"
+        "developed_by"      :   "developed by",
+        "congratulations"   :   "congratulations!",
+        "you_passed"        :   "you have passed",
+        "halloween_ch"      :   "the halloween challenge",
+        "christmas_ch"      :   "the Christmas challenge",
+        "get_reward"        :   "get reward",
+        "shoot_pumpkins"    :   "Shoot pumpkins for a higher score",
+        "tutorial_pumpkin"  :   "Don't shoot dynamite or miss pumpkins",
+        "tutorial_snowman1" :   "Shoot snowmans\nfor a higher score",
+        "tutorial_snowman2" :   "Don't shoot bombs",
+        "points"            :   "points"
     }
 }
