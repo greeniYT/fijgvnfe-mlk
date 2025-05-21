@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "bar_0000",
+	"frame": {"x":360,"y":402,"w":211,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":36},
+	"sourceSize": {"w":211,"h":36}
+}
+,{
+	"filename": "barbg_0000",
+	"frame": {"x":211,"y":529,"w":273,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":42},
+	"sourceSize": {"w":273,"h":42}
+}
+,{
+	"filename": "ben10_0000",
+	"frame": {"x":211,"y":402,"w":148,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":126},
+	"sourceSize": {"w":148,"h":126}
+}
+,{
+	"filename": "bg_0000",
+	"frame": {"x":1,"y":1,"w":600,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":400},
+	"sourceSize": {"w":600,"h":400}
+}
+,{
+	"filename": "gamepad_0000",
+	"frame": {"x":1,"y":402,"w":209,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":129},
+	"sourceSize": {"w":209,"h":129}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "preloader.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

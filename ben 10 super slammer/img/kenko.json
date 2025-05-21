@@ -1,0 +1,1147 @@
+﻿{"frames": [
+
+{
+	"filename": "kenko_body_0000",
+	"frame": {"x":638,"y":536,"w":258,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":197},
+	"sourceSize": {"w":258,"h":197}
+}
+,{
+	"filename": "kenko_explose_0000",
+	"frame": {"x":601,"y":2005,"w":56,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":191,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0001",
+	"frame": {"x":1873,"y":193,"w":80,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":186,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0002",
+	"frame": {"x":1371,"y":1988,"w":101,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":172,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0003",
+	"frame": {"x":193,"y":1971,"w":95,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":166,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0004",
+	"frame": {"x":1949,"y":688,"w":93,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":149,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0005",
+	"frame": {"x":1949,"y":470,"w":87,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":124,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0006",
+	"frame": {"x":1808,"y":1917,"w":93,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":110,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0007",
+	"frame": {"x":1615,"y":1918,"w":96,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":95,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0008",
+	"frame": {"x":1502,"y":1918,"w":112,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":83,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0009",
+	"frame": {"x":1712,"y":1917,"w":95,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":67,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0010",
+	"frame": {"x":1949,"y":575,"w":77,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":43,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0011",
+	"frame": {"x":1769,"y":1536,"w":63,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":28,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0012",
+	"frame": {"x":1764,"y":1638,"w":49,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":17,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_explose_0013",
+	"frame": {"x":897,"y":536,"w":34,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":112,"h":232},
+	"sourceSize": {"w":112,"h":232}
+}
+,{
+	"filename": "kenko_head_0000",
+	"frame": {"x":1769,"y":1418,"w":64,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":118},
+	"sourceSize": {"w":66,"h":118}
+}
+,{
+	"filename": "kenko_head_0001",
+	"frame": {"x":1834,"y":1418,"w":63,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":66,"h":118},
+	"sourceSize": {"w":66,"h":118}
+}
+,{
+	"filename": "kenko_head_0002",
+	"frame": {"x":1833,"y":1537,"w":57,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":66,"h":118},
+	"sourceSize": {"w":66,"h":118}
+}
+,{
+	"filename": "kenko_head_0003",
+	"frame": {"x":1898,"y":1418,"w":59,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":8,"w":66,"h":118},
+	"sourceSize": {"w":66,"h":118}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0000",
+	"frame": {"x":1192,"y":1593,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0001",
+	"frame": {"x":991,"y":1635,"w":190,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0002",
+	"frame": {"x":989,"y":1798,"w":191,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0003",
+	"frame": {"x":1563,"y":690,"w":191,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0004",
+	"frame": {"x":1577,"y":848,"w":192,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0005",
+	"frame": {"x":1393,"y":1024,"w":192,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0006",
+	"frame": {"x":1569,"y":1174,"w":192,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0007",
+	"frame": {"x":1383,"y":1634,"w":191,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0008",
+	"frame": {"x":1691,"y":1776,"w":189,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0009",
+	"frame": {"x":1502,"y":1776,"w":188,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0010",
+	"frame": {"x":1762,"y":1276,"w":186,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0011",
+	"frame": {"x":1770,"y":990,"w":185,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0012",
+	"frame": {"x":1569,"y":1316,"w":185,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":18,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0013",
+	"frame": {"x":808,"y":1123,"w":194,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0014",
+	"frame": {"x":1,"y":1148,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0015",
+	"frame": {"x":1,"y":1391,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0016",
+	"frame": {"x":1,"y":1634,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0017",
+	"frame": {"x":1439,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0018",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0019",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0020",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0021",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0022",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0023",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0024",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0025",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0026",
+	"frame": {"x":1656,"y":1,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0027",
+	"frame": {"x":727,"y":293,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0028",
+	"frame": {"x":1799,"y":244,"w":209,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0029",
+	"frame": {"x":623,"y":734,"w":202,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":16,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0030",
+	"frame": {"x":420,"y":1144,"w":193,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":17,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0031",
+	"frame": {"x":218,"y":1787,"w":190,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":18,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0032",
+	"frame": {"x":802,"y":1658,"w":186,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":19,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0033",
+	"frame": {"x":1393,"y":860,"w":183,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":20,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0034",
+	"frame": {"x":1389,"y":1174,"w":179,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":20,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0035",
+	"frame": {"x":1770,"y":830,"w":184,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack1_0036",
+	"frame": {"x":1192,"y":1593,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":258},
+	"sourceSize": {"w":263,"h":258}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0000",
+	"frame": {"x":1001,"y":1468,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":16,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0001",
+	"frame": {"x":601,"y":1837,"w":190,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":14,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0002",
+	"frame": {"x":409,"y":1689,"w":191,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":12,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0003",
+	"frame": {"x":1,"y":1877,"w":191,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":11,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0004",
+	"frame": {"x":614,"y":1323,"w":192,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":9,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0005",
+	"frame": {"x":1196,"y":1419,"w":192,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":8,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0006",
+	"frame": {"x":1196,"y":1069,"w":192,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":6,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0007",
+	"frame": {"x":808,"y":1300,"w":192,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":4,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0008",
+	"frame": {"x":1755,"y":471,"w":193,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":2,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0009",
+	"frame": {"x":614,"y":1140,"w":193,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":0,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0010",
+	"frame": {"x":1391,"y":681,"w":171,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0011",
+	"frame": {"x":1199,"y":687,"w":191,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":30,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0012",
+	"frame": {"x":1363,"y":244,"w":225,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":33,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0013",
+	"frame": {"x":1187,"y":1,"w":251,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":41,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0014",
+	"frame": {"x":205,"y":706,"w":216,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":38,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0015",
+	"frame": {"x":1572,"y":471,"w":182,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":36,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0016",
+	"frame": {"x":1391,"y":455,"w":180,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":34,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0017",
+	"frame": {"x":944,"y":475,"w":220,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":32,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0018",
+	"frame": {"x":203,"y":1,"w":261,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0019",
+	"frame": {"x":931,"y":1,"w":255,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0020",
+	"frame": {"x":203,"y":232,"w":261,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0021",
+	"frame": {"x":465,"y":1,"w":261,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0022",
+	"frame": {"x":465,"y":1,"w":261,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0023",
+	"frame": {"x":465,"y":1,"w":261,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0024",
+	"frame": {"x":203,"y":1,"w":261,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0025",
+	"frame": {"x":465,"y":231,"w":261,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0026",
+	"frame": {"x":218,"y":1561,"w":181,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":34,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0027",
+	"frame": {"x":1017,"y":704,"w":181,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":37,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0028",
+	"frame": {"x":1187,"y":1,"w":251,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":41,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0029",
+	"frame": {"x":1165,"y":475,"w":225,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":34,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0030",
+	"frame": {"x":218,"y":1354,"w":199,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":30,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0031",
+	"frame": {"x":1873,"y":1,"w":174,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":31,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0032",
+	"frame": {"x":1586,"y":1003,"w":163,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":34,"w":391,"h":261},
+	"sourceSize": {"w":391,"h":261}
+}
+,{
+	"filename": "kenko_leftHand_attack2_0033",
+	"frame": {"x":1001,"y":1468,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":16,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0000",
+	"frame": {"x":1,"y":1,"w":201,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":2,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0001",
+	"frame": {"x":1,"y":609,"w":202,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":0,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0002",
+	"frame": {"x":422,"y":706,"w":200,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0003",
+	"frame": {"x":401,"y":941,"w":191,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0004",
+	"frame": {"x":807,"y":1478,"w":183,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0005",
+	"frame": {"x":1389,"y":1333,"w":178,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":5,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0006",
+	"frame": {"x":1389,"y":1492,"w":192,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0007",
+	"frame": {"x":1182,"y":1760,"w":191,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0008",
+	"frame": {"x":1181,"y":1902,"w":189,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0009",
+	"frame": {"x":1575,"y":1634,"w":188,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0010",
+	"frame": {"x":802,"y":1831,"w":186,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0011",
+	"frame": {"x":1762,"y":1133,"w":185,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0012",
+	"frame": {"x":1582,"y":1460,"w":186,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0013",
+	"frame": {"x":420,"y":1340,"w":186,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":4,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0014",
+	"frame": {"x":944,"y":232,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0015",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0016",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0017",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0018",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0019",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0020",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0021",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0022",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0023",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0024",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0025",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0026",
+	"frame": {"x":204,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0027",
+	"frame": {"x":421,"y":463,"w":216,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0028",
+	"frame": {"x":1589,"y":244,"w":209,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0029",
+	"frame": {"x":218,"y":1144,"w":201,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":2,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0030",
+	"frame": {"x":593,"y":944,"w":190,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":2,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0031",
+	"frame": {"x":826,"y":734,"w":190,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0032",
+	"frame": {"x":205,"y":924,"w":195,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":0,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0033",
+	"frame": {"x":1161,"y":232,"w":201,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":0,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0034",
+	"frame": {"x":1,"y":880,"w":203,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":0,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0035",
+	"frame": {"x":727,"y":1,"w":203,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":1,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_attack3_0036",
+	"frame": {"x":1,"y":305,"w":201,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":2,"w":262,"h":305},
+	"sourceSize": {"w":262,"h":305}
+}
+,{
+	"filename": "kenko_leftHand_broken_0000",
+	"frame": {"x":1374,"y":1776,"w":127,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":211},
+	"sourceSize": {"w":127,"h":211}
+}
+,{
+	"filename": "kenko_leftHand_idle_0000",
+	"frame": {"x":1001,"y":1468,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":24,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0001",
+	"frame": {"x":409,"y":1859,"w":191,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":20,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0002",
+	"frame": {"x":418,"y":1517,"w":191,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0003",
+	"frame": {"x":1196,"y":1245,"w":192,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":12,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0004",
+	"frame": {"x":978,"y":942,"w":192,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0005",
+	"frame": {"x":1755,"y":651,"w":193,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0006",
+	"frame": {"x":1199,"y":888,"w":193,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0007",
+	"frame": {"x":784,"y":944,"w":193,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0008",
+	"frame": {"x":1003,"y":1118,"w":192,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0009",
+	"frame": {"x":1003,"y":1294,"w":192,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":12,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0010",
+	"frame": {"x":610,"y":1496,"w":191,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0011",
+	"frame": {"x":610,"y":1668,"w":191,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":20,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_leftHand_idle_0012",
+	"frame": {"x":1001,"y":1468,"w":190,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":24,"w":193,"h":190},
+	"sourceSize": {"w":193,"h":190}
+}
+,{
+	"filename": "kenko_neck_0000",
+	"frame": {"x":1949,"y":772,"w":98,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":35},
+	"sourceSize": {"w":98,"h":35}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "kenko.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

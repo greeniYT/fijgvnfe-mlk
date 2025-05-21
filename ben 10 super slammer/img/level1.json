@@ -1,0 +1,243 @@
+﻿{"frames": [
+
+{
+	"filename": "bgLevel1_0000",
+	"frame": {"x":2,"y":2,"w":1534,"h":659},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1534,"h":659},
+	"sourceSize": {"w":1534,"h":659}
+}
+,{
+	"filename": "bonus1hp_0000",
+	"frame": {"x":544,"y":1035,"w":69,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":77},
+	"sourceSize": {"w":69,"h":77}
+}
+,{
+	"filename": "box_1_0000",
+	"frame": {"x":1538,"y":458,"w":166,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":99},
+	"sourceSize": {"w":166,"h":99}
+}
+,{
+	"filename": "box_2_0000",
+	"frame": {"x":1538,"y":559,"w":104,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":99},
+	"sourceSize": {"w":104,"h":99}
+}
+,{
+	"filename": "cannonUnlocker_0000",
+	"frame": {"x":1776,"y":530,"w":58,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":59},
+	"sourceSize": {"w":58,"h":59}
+}
+,{
+	"filename": "coin_10_0000",
+	"frame": {"x":1776,"y":591,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+}
+,{
+	"filename": "coin_10_circle_0000",
+	"frame": {"x":544,"y":1175,"w":35,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":9},
+	"sourceSize": {"w":35,"h":9}
+}
+,{
+	"filename": "coin_10_shadow_0000",
+	"frame": {"x":1776,"y":634,"w":52,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":20},
+	"sourceSize": {"w":52,"h":20}
+}
+,{
+	"filename": "coin_score_1000_0000",
+	"frame": {"x":1706,"y":480,"w":131,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":48},
+	"sourceSize": {"w":131,"h":48}
+}
+,{
+	"filename": "coin_score_100_0000",
+	"frame": {"x":1706,"y":430,"w":131,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":48},
+	"sourceSize": {"w":131,"h":48}
+}
+,{
+	"filename": "coin_score_10_0000",
+	"frame": {"x":1488,"y":1125,"w":132,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":48},
+	"sourceSize": {"w":132,"h":48}
+}
+,{
+	"filename": "coin_score_2000_0000",
+	"frame": {"x":1686,"y":230,"w":132,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":48},
+	"sourceSize": {"w":132,"h":48}
+}
+,{
+	"filename": "coin_score_25_0000",
+	"frame": {"x":1686,"y":380,"w":132,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":48},
+	"sourceSize": {"w":132,"h":48}
+}
+,{
+	"filename": "coin_score_3000_0000",
+	"frame": {"x":1686,"y":330,"w":132,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":48},
+	"sourceSize": {"w":132,"h":48}
+}
+,{
+	"filename": "coin_score_45_0000",
+	"frame": {"x":1686,"y":280,"w":132,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":48},
+	"sourceSize": {"w":132,"h":48}
+}
+,{
+	"filename": "coin_score_75_0000",
+	"frame": {"x":1337,"y":1125,"w":149,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":54},
+	"sourceSize": {"w":149,"h":54}
+}
+,{
+	"filename": "flag_0000",
+	"frame": {"x":1738,"y":530,"w":36,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":122},
+	"sourceSize": {"w":36,"h":122}
+}
+,{
+	"filename": "foreground_0000",
+	"frame": {"x":544,"y":1195,"w":1000,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":116},
+	"sourceSize": {"w":1000,"h":116}
+}
+,{
+	"filename": "fourArmsUnlocker_0000",
+	"frame": {"x":544,"y":1114,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
+	"sourceSize": {"w":59,"h":59}
+}
+,{
+	"filename": "ground_1_0000",
+	"frame": {"x":1415,"y":663,"w":491,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":226},
+	"sourceSize": {"w":491,"h":226}
+}
+,{
+	"filename": "ground_1_0001",
+	"frame": {"x":1415,"y":663,"w":491,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":226},
+	"sourceSize": {"w":491,"h":226}
+}
+,{
+	"filename": "ground_2_0000",
+	"frame": {"x":1538,"y":2,"w":172,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":226},
+	"sourceSize": {"w":172,"h":226}
+}
+,{
+	"filename": "ground_3_0000",
+	"frame": {"x":1538,"y":230,"w":146,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":226},
+	"sourceSize": {"w":146,"h":226}
+}
+,{
+	"filename": "house_1_0000",
+	"frame": {"x":2,"y":1035,"w":540,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":312},
+	"sourceSize": {"w":540,"h":312}
+}
+,{
+	"filename": "house_2_0000",
+	"frame": {"x":630,"y":663,"w":783,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":783,"h":267},
+	"sourceSize": {"w":783,"h":267}
+}
+,{
+	"filename": "house_3_0000",
+	"frame": {"x":630,"y":932,"w":705,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":705,"h":261},
+	"sourceSize": {"w":705,"h":261}
+}
+,{
+	"filename": "house_4_0000",
+	"frame": {"x":2,"y":663,"w":626,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":626,"h":370},
+	"sourceSize": {"w":626,"h":370}
+}
+,{
+	"filename": "house_5_0000",
+	"frame": {"x":1337,"y":932,"w":645,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":645,"h":191},
+	"sourceSize": {"w":645,"h":191}
+}
+,{
+	"filename": "unlockArrow_0000",
+	"frame": {"x":1644,"y":559,"w":92,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":95},
+	"sourceSize": {"w":92,"h":95}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "level1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
