@@ -1,0 +1,188 @@
+
+assets/spine/zombie.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sudor
+  rotate: true
+  xy: 986, 108
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+zombie/guia
+  rotate: false
+  xy: 491, 97
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+zombie/head1
+  rotate: false
+  xy: 2, 16
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+zombie/head2
+  rotate: false
+  xy: 123, 16
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+zombie/zombie-big-pupil
+  rotate: false
+  xy: 514, 76
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zombie/zombie-bigote
+  rotate: true
+  xy: 474, 58
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+zombie/zombie-boca
+  rotate: false
+  xy: 884, 97
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+zombie/zombie-boca-extra-feliz
+  rotate: false
+  xy: 804, 90
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+zombie/zombie-boca-feliz
+  rotate: false
+  xy: 848, 97
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+zombie/zombie-boca-mad
+  rotate: true
+  xy: 422, 2
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+zombie/zombie-boca-mad-1
+  rotate: false
+  xy: 919, 101
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+zombie/zombie-brain
+  rotate: false
+  xy: 955, 99
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+zombie/zombie-cejas
+  rotate: false
+  xy: 2, 5
+  size: 58, 9
+  orig: 58, 9
+  offset: 0, 0
+  index: -1
+zombie/zombie-cejas-extra-happy
+  rotate: false
+  xy: 682, 109
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+zombie/zombie-cejas-happy
+  rotate: false
+  xy: 553, 109
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+zombie/zombie-cejas-mad
+  rotate: true
+  xy: 461, 2
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+zombie/zombie-cejas-worried
+  rotate: false
+  xy: 744, 106
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+zombie/zombie-eyes-base-mad
+  rotate: false
+  xy: 422, 95
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+zombie/zombie-inf-parpados
+  rotate: false
+  xy: 619, 109
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+zombie/zombie-marco
+  rotate: false
+  xy: 244, 19
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+zombie/zombie-parpados-sup
+  rotate: false
+  xy: 353, 93
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+zombie/zombie-parpados-sup2
+  rotate: false
+  xy: 353, 58
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+zombie/zombie-small-pupil
+  rotate: false
+  xy: 553, 98
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+zombie/zombie-tonge
+  rotate: false
+  xy: 493, 72
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+zombie/zombie-top-hair
+  rotate: false
+  xy: 422, 52
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+zombie/zombieeyes-base
+  rotate: false
+  xy: 353, 25
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1

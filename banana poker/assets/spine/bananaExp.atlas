@@ -1,0 +1,468 @@
+
+assets/spine/bananaExp.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banana/Explosion/explosion_00
+  rotate: false
+  xy: 260, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_01
+  rotate: false
+  xy: 260, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_02
+  rotate: false
+  xy: 387, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_03
+  rotate: false
+  xy: 387, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_04
+  rotate: false
+  xy: 514, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_05
+  rotate: false
+  xy: 514, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_06
+  rotate: false
+  xy: 641, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_07
+  rotate: false
+  xy: 641, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_08
+  rotate: false
+  xy: 768, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_09
+  rotate: false
+  xy: 768, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_10
+  rotate: false
+  xy: 895, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_11
+  rotate: false
+  xy: 895, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_12
+  rotate: false
+  xy: 1022, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/Explosion/explosion_13
+  rotate: false
+  xy: 1022, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+banana/banana-baseEye
+  rotate: false
+  xy: 1593, 182
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+banana/banana-bend1
+  rotate: true
+  xy: 1149, 2
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+banana/banana-bend2
+  rotate: true
+  xy: 1425, 187
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+banana/banana-bend3
+  rotate: true
+  xy: 1810, 207
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+banana/banana-big-pupil
+  rotate: false
+  xy: 1593, 156
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+banana/banana-big-shine
+  rotate: false
+  xy: 1313, 123
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+banana/banana-blush
+  rotate: true
+  xy: 1313, 134
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+banana/banana-body
+  rotate: true
+  xy: 2, 121
+  size: 133, 256
+  orig: 133, 256
+  offset: 0, 0
+  index: -1
+banana/banana-body-cheek
+  rotate: true
+  xy: 1518, 141
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+banana/banana-body-mad
+  rotate: true
+  xy: 1688, 219
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+banana/banana-brow
+  rotate: true
+  xy: 205, 2
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+banana/banana-brow-happy
+  rotate: true
+  xy: 2030, 235
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+banana/banana-brow-mad
+  rotate: false
+  xy: 140, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+banana/banana-cards
+  rotate: false
+  xy: 1222, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+banana/banana-cheek-false
+  rotate: false
+  xy: 1677, 185
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+banana/banana-cheek-farol
+  rotate: false
+  xy: 1716, 185
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+banana/banana-eyebrow-sad
+  rotate: true
+  xy: 241, 91
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+banana/banana-eyelashes
+  rotate: false
+  xy: 1591, 224
+  size: 95, 30
+  orig: 95, 30
+  offset: 0, 0
+  index: -1
+banana/banana-eyeliner
+  rotate: false
+  xy: 1635, 182
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+banana/banana-hand-cards-back
+  rotate: false
+  xy: 1348, 6
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+banana/banana-hand-cool
+  rotate: true
+  xy: 1335, 190
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+banana/banana-hand-fist
+  rotate: false
+  xy: 1286, 2
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+banana/banana-hand-heart
+  rotate: true
+  xy: 2, 16
+  size: 103, 136
+  orig: 103, 136
+  offset: 0, 0
+  index: -1
+banana/banana-hand-oh
+  rotate: false
+  xy: 1239, 59
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+banana/banana-hand-oh-back
+  rotate: true
+  xy: 1346, 69
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+banana/banana-hand-open
+  rotate: false
+  xy: 1149, 59
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+banana/banana-hand-up
+  rotate: true
+  xy: 1501, 204
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+banana/banana-hand-you
+  rotate: false
+  xy: 1405, 123
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+banana/banana-hat
+  rotate: false
+  xy: 1241, 155
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+banana/banana-heart
+  rotate: false
+  xy: 1241, 190
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+banana/banana-lid-bottom
+  rotate: false
+  xy: 1241, 131
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+banana/banana-lid-bottom-mad
+  rotate: false
+  xy: 1751, 191
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+banana/banana-lid-top
+  rotate: true
+  xy: 1560, 161
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-farol
+  rotate: true
+  xy: 1479, 138
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-happy-small
+  rotate: false
+  xy: 1281, 131
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-mad
+  rotate: true
+  xy: 1299, 59
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-neutral
+  rotate: false
+  xy: 1975, 229
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-ris1
+  rotate: false
+  xy: 1405, 73
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-ris2
+  rotate: false
+  xy: 1329, 131
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-sad
+  rotate: false
+  xy: 173, 3
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-talk1
+  rotate: false
+  xy: 1867, 222
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-talk2
+  rotate: false
+  xy: 1751, 217
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-win1
+  rotate: false
+  xy: 1406, 31
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+banana/banana-mouth-win2
+  rotate: false
+  xy: 1518, 157
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+banana/banana-palomita
+  rotate: false
+  xy: 1446, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+banana/banana-palomitas
+  rotate: false
+  xy: 1149, 143
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+banana/banana-pupil
+  rotate: false
+  xy: 1792, 196
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+banana/banana-rect
+  rotate: false
+  xy: 140, 27
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+banana/banana-small-pupil
+  rotate: false
+  xy: 1867, 211
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+banana/banana-small-shine
+  rotate: false
+  xy: 2, 6
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+banana/banana-tear
+  rotate: false
+  xy: 1406, 2
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+banana/pajarita
+  rotate: false
+  xy: 1922, 224
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1

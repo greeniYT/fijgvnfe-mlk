@@ -1,0 +1,174 @@
+
+assets/spine/sloth.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sloth/sloth-base-eyes
+  rotate: false
+  xy: 301, 50
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+sloth/sloth-blink
+  rotate: false
+  xy: 372, 106
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+sloth/sloth-blush
+  rotate: false
+  xy: 372, 96
+  size: 52, 8
+  orig: 52, 8
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca
+  rotate: false
+  xy: 426, 96
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca-feliz
+  rotate: false
+  xy: 58, 3
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca-happy
+  rotate: false
+  xy: 301, 35
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca-happy-bucle
+  rotate: false
+  xy: 372, 81
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca-mad
+  rotate: false
+  xy: 272, 22
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+sloth/sloth-boca-mad-bucle
+  rotate: true
+  xy: 501, 97
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+sloth/sloth-ceja
+  rotate: false
+  xy: 169, 14
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+sloth/sloth-ceño
+  rotate: true
+  xy: 332, 34
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+sloth/sloth-face
+  rotate: false
+  xy: 218, 33
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+sloth/sloth-feliz-base-eyes
+  rotate: false
+  xy: 114, 12
+  size: 53, 8
+  orig: 53, 8
+  offset: 0, 0
+  index: -1
+sloth/sloth-glasses
+  rotate: false
+  xy: 463, 107
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+sloth/sloth-hair-back
+  rotate: false
+  xy: 301, 83
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+sloth/sloth-hat
+  rotate: false
+  xy: 114, 22
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+sloth/sloth-marco
+  rotate: false
+  xy: 2, 12
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+sloth/sloth-mejillas-blush
+  rotate: false
+  xy: 301, 66
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+sloth/sloth-ojeras
+  rotate: false
+  xy: 2, 2
+  size: 54, 8
+  orig: 54, 8
+  offset: 0, 0
+  index: -1
+sloth/sloth-parpados
+  rotate: false
+  xy: 218, 22
+  size: 52, 9
+  orig: 52, 9
+  offset: 0, 0
+  index: -1
+sloth/sloth-pupil
+  rotate: true
+  xy: 361, 74
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+sloth/sloth-shine
+  rotate: false
+  xy: 399, 89
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+sloth/sloth-shine copia
+  rotate: false
+  xy: 399, 89
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+sudor
+  rotate: true
+  xy: 426, 105
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1

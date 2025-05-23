@@ -1,0 +1,146 @@
+
+assets/spine/moai.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+moai/eyes cardcheck
+  rotate: false
+  xy: 445, 93
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+moai/moai-boca
+  rotate: false
+  xy: 231, 36
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+moai/moai-boca-enfado
+  rotate: false
+  xy: 118, 12
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+moai/moai-boca-feliz
+  rotate: true
+  xy: 498, 100
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+moai/moai-ceja-enfado
+  rotate: false
+  xy: 363, 39
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+moai/moai-ceja-worried
+  rotate: true
+  xy: 428, 55
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+moai/moai-cejas-feliz
+  rotate: false
+  xy: 2, 2
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+moai/moai-eyes
+  rotate: false
+  xy: 391, 92
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+moai/moai-face
+  rotate: true
+  xy: 118, 31
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+moai/moai-fx-mad
+  rotate: true
+  xy: 400, 43
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+moai/moai-fx-star
+  rotate: false
+  xy: 141, 13
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+moai/moai-gafas1
+  rotate: false
+  xy: 231, 97
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+moai/moai-gafas2
+  rotate: false
+  xy: 231, 70
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+moai/moai-gafas3
+  rotate: false
+  xy: 311, 97
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+moai/moai-gafas4
+  rotate: false
+  xy: 231, 43
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+moai/moai-gafas5
+  rotate: false
+  xy: 311, 70
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+moai/moai-marco
+  rotate: false
+  xy: 2, 15
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+moai/moai-nariz
+  rotate: true
+  xy: 311, 36
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+moai/parpados
+  rotate: false
+  xy: 391, 70
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+sudor
+  rotate: true
+  xy: 363, 50
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1

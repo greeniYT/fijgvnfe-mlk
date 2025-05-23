@@ -1,0 +1,223 @@
+
+assets/spine/burger-teen.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burger_teen/baseOjos
+  rotate: false
+  xy: 306, 53
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+burger_teen/bottom
+  rotate: false
+  xy: 295, 102
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+burger_teen/brillo-ojos
+  rotate: true
+  xy: 210, 2
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+burger_teen/burger-marco
+  rotate: false
+  xy: 2, 19
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+burger_teen/carne
+  rotate: false
+  xy: 378, 106
+  size: 81, 20
+  orig: 81, 20
+  offset: 0, 0
+  index: -1
+burger_teen/cejas-enfado
+  rotate: false
+  xy: 173, 13
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+burger_teen/cejas-neutral
+  rotate: false
+  xy: 461, 97
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+burger_teen/cejas-super-enfado
+  rotate: false
+  xy: 378, 81
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+burger_teen/cejas-worried
+  rotate: false
+  xy: 180, 25
+  size: 42, 8
+  orig: 42, 8
+  offset: 0, 0
+  index: -1
+burger_teen/enfado
+  rotate: false
+  xy: 461, 107
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+burger_teen/face
+  rotate: false
+  xy: 111, 81
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+burger_teen/lechuga
+  rotate: false
+  xy: 201, 102
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+burger_teen/mejillaSuelta
+  rotate: false
+  xy: 374, 60
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+burger_teen/nariz
+  rotate: false
+  xy: 224, 21
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+burger_teen/nariz-abierta
+  rotate: true
+  xy: 360, 59
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+burger_teen/nariz-caida
+  rotate: false
+  xy: 400, 67
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+burger_teen/neutral
+  rotate: false
+  xy: 400, 60
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+burger_teen/parpado-Inf
+  rotate: false
+  xy: 111, 11
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+burger_teen/parpado_Sup_1
+  rotate: false
+  xy: 54, 6
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+burger_teen/parpado_Sup_2
+  rotate: false
+  xy: 2, 3
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+burger_teen/parpado_Sup_closed
+  rotate: false
+  xy: 244, 26
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+burger_teen/patata
+  rotate: false
+  xy: 111, 31
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+burger_teen/pupilasBase
+  rotate: false
+  xy: 173, 2
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+burger_teen/pupilasContento
+  rotate: false
+  xy: 423, 70
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+burger_teen/pupilasEnfado
+  rotate: false
+  xy: 460, 87
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+burger_teen/queso
+  rotate: false
+  xy: 201, 81
+  size: 87, 19
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+burger_teen/sonrisa
+  rotate: false
+  xy: 306, 32
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+burger_teen/superContento
+  rotate: false
+  xy: 180, 35
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+burger_teen/superEnfadado
+  rotate: false
+  xy: 244, 46
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+burger_teen/tomate
+  rotate: false
+  xy: 290, 83
+  size: 84, 17
+  orig: 84, 17
+  offset: 0, 0
+  index: -1
+sudor
+  rotate: true
+  xy: 423, 86
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,79 @@
+{
+    "zombie": {
+        "attributes": {
+            "level": 10, 
+            "aggressiveness": 40,
+            "allin": 0,
+            "calls": 0,
+            "bluff": 0,
+            "randomness": 2,
+            "credibility": 100
+        }
+    }, 
+    "moai": {
+        "attributes": {
+            "level": 7, 
+            "aggressiveness": 10,
+            "allin": 0,
+            "calls": 20,
+            "bluff": 0,
+            "randomness": 0,
+            "credibility": 100
+        }
+    }, 
+    "burger-teen": {
+        "attributes": {
+            "level": 6, 
+            "aggressiveness": 50,
+            "allin": 10,
+            "calls": 10,
+            "bluff": 10,
+            "randomness": 0,
+            "credibility": 100
+        }
+    }, 
+    "sloth": {
+        "attributes": {
+            "level": 6, 
+            "aggressiveness": 10,
+            "allin": 0,
+            "calls": 50,
+            "bluff": 0,
+            "randomness": 0,
+            "credibility": 100
+        }
+    }, 
+    "monkey": {
+        "attributes": {
+            "level": 6, 
+            "aggressiveness": 90,
+            "allin": 20,
+            "calls": 20,
+            "bluff": 20,
+            "randomness": 10,
+            "credibility": 100
+        }
+    },
+    "demon": {
+        "attributes": {
+            "level": 5, 
+            "aggressiveness": 80,
+            "allin": 0,
+            "calls": 80,
+            "bluff": 0,
+            "randomness": 0,
+            "credibility": 100
+        }
+    }, 
+    "richMan": {
+        "attributes": {
+            "level": 4, 
+            "aggressiveness": 70,
+            "allin": 40,
+            "calls": 20,
+            "bluff": 20,
+            "randomness": 0,
+            "credibility": 100
+        }
+    }
+}

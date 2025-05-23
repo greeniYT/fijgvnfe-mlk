@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "btn_hi-lo.png",
+	"frame": {"x":314,"y":238,"w":190,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":54},
+	"sourceSize": {"w":190,"h":54}
+},
+{
+	"filename": "char_file_burger-teen.png",
+	"frame": {"x":528,"y":104,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "char_file_demon.png",
+	"frame": {"x":1,"y":90,"w":311,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":147},
+	"sourceSize": {"w":311,"h":147}
+},
+{
+	"filename": "char_file_moai.png",
+	"frame": {"x":1,"y":239,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "char_file_monkey.png",
+	"frame": {"x":506,"y":252,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "char_file_richMan.png",
+	"frame": {"x":1,"y":387,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "char_file_sloth.png",
+	"frame": {"x":1,"y":535,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "char_file_zombie.png",
+	"frame": {"x":1,"y":683,"w":311,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":146},
+	"sourceSize": {"w":311,"h":146}
+},
+{
+	"filename": "game_over_hilo.png",
+	"frame": {"x":314,"y":90,"w":212,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":146},
+	"sourceSize": {"w":212,"h":146}
+},
+{
+	"filename": "meet_rivals.png",
+	"frame": {"x":1,"y":1,"w":540,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":87},
+	"sourceSize": {"w":540,"h":87}
+},
+{
+	"filename": "you_win_hilo.png",
+	"frame": {"x":543,"y":1,"w":385,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":101},
+	"sourceSize": {"w":385,"h":101}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture_atlas_3_en.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d389d4aa58d93f302d99c93e5686194:5865e6a7150222cb57904dcff0066aa7:1262f913f3ca8491edb8701fd819f5bb$"
+}
+}

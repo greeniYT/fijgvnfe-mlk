@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Banana Poker Game: Free Online No Limit Texas Holdem Poker Video Game for Kids</title>
+        <meta name="description" content="Banana Poker is a fun and challenging no limit Texas Hold'em Poker game where players play against 5 computer players with each cartoon character competitor having a unique personality. Scroll over each character to see their analysis, agressiveness, and volatility. Games start out with a 10,000 chips savings, a 1,000 chip entry, and a 5/10 blind. The blind increases in size after every 10 hands. Players can play games of high low to earn more chips if they run out of chips. This is a JavaScript web application which uses cross-platform mobile-friendly HTML. All modern web browsers like Microsoft Edge, Apple Safari, Google Chrome, Mozilla Firefox and Opera should support it. This game works on just about any type of computing device including Microsoft Windows desktop computers, Apple OSX Mac computers, iOS powered tablets and phones like the iPad and iPhone,  laptops like the Google Chromebook, and the many types of mobile phones from manufacturers like Samsung which are powered by Google Android."/>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">    
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Banana Poker">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, minimal-ui" />
+    
+    <style>
+
+        * { -webkit-tap-highlight-color:rgba(0,0,0,0); }
+
+        body {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            margin: 0px 0px 1px 0px; /* the extra 1px allows the iOS inner/outer check to work */
+            background: rgb(255, 255, 255);
+        }
+
+        #content {
+            margin: 0 auto;
+            width: 100%;
+            height: 100%;
+			text-align: center;
+        }
+
+        #orientation {
+            margin: 0 auto;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url(assets/rotate-device.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: rgb(0, 0, 0);
+            z-index: 999;
+            display: none;
+        }
+
+        @font-face {
+            font-family: "Oswald-Medium";
+            src: url("assets/fonts/Oswald-Medium.ttf");
+        }
+
+    </style>
+
+    <script src="plugins/SpineWebGLPlugin.js"></script>
+    <script src="js/pokersolver.js"></script>
+    <script src="dist/bundle.js"></script>
+
+<script>
+   function stayCalm() {
+      event.preventDefault() ;
+}
+</script>
+</head>
+<body ontouchmove="stayCalm()"> 
+    
+<div id="content"></div>
+<div id="orientation"></div>
+
+
+<style id="loadedfully">
+body{visibility: hidden;} 
+</style>
+<style>
+#thewelcomeimage {
+  max-width: 100%;
+  height: auto;
+  max-height: 90vh;
+}
+</style>
+<div id="closediv" style="display: inline-block !important; visibility: visible;"></div>
+<script type="text/javascript"> 
+if (self === top || self.location.hostname === top.location.hostname) 
+	{ var loadedfully = document.getElementById("loadedfully"); loadedfully.parentNode.removeChild(loadedfully); 
+	}
+	else 
+	{ 
+	document.getElementById("closediv").innerHTML = "<br/><a href='"+ window.location.href +"' target='_blank'><img id='thewelcomeimage' src='https://www.culinaryschools.org/images/video-game.png' ></a>";
+	document.getElementById("closediv").style.display = 'block !important'; 
+	} 
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J4QMS4YVPF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J4QMS4YVPF');
+</script>
+ 
+</body>
+</html>

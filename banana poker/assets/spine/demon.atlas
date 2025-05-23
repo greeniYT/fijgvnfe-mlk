@@ -1,0 +1,174 @@
+
+assets/spine/demon.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+demon/demon-marco
+  rotate: false
+  xy: 2, 4
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+demon/demon_base-eyes
+  rotate: false
+  xy: 363, 98
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+demon/demon_base-eyes-happy
+  rotate: false
+  xy: 422, 98
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+demon/demon_base-eyes-mad
+  rotate: false
+  xy: 303, 95
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+demon/demon_blush
+  rotate: false
+  xy: 124, 8
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1
+demon/demon_boca
+  rotate: false
+  xy: 124, 2
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+demon/demon_boca-feliz
+  rotate: false
+  xy: 284, 38
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+demon/demon_boca-mad
+  rotate: false
+  xy: 481, 106
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+demon/demon_boca-mad1
+  rotate: false
+  xy: 302, 49
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+demon/demon_boca-super-feliz
+  rotate: false
+  xy: 406, 72
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+demon/demon_eyebrow
+  rotate: false
+  xy: 302, 61
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+demon/demon_eyebrow-mad
+  rotate: false
+  xy: 335, 61
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+demon/demon_eyebrow-worried
+  rotate: false
+  xy: 195, 12
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+demon/demon_eyes-blink
+  rotate: false
+  xy: 303, 78
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+demon/demon_head
+  rotate: false
+  xy: 124, 23
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+demon/demon_neck
+  rotate: true
+  xy: 284, 50
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+demon/demon_pupil
+  rotate: false
+  xy: 347, 40
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+demon/demon_pupil-happy
+  rotate: true
+  xy: 325, 41
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+demon/demon_pupil-mad
+  rotate: true
+  xy: 481, 98
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+demon/demon_shine
+  rotate: false
+  xy: 237, 25
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+demon/demon_shineHappy
+  rotate: false
+  xy: 366, 72
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+demon/demon_wing-back
+  rotate: false
+  xy: 237, 37
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+demon/demon_wing-front
+  rotate: false
+  xy: 237, 84
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+sudor
+  rotate: true
+  xy: 439, 78
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
