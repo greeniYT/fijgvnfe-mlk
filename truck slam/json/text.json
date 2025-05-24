@@ -1,0 +1,71 @@
+{
+  "font0": {
+    "en": "PassionOne"
+  },
+  "next": {
+    "en": "NEXT"
+  },
+  "destroy": {
+    "en": "DESTROY"
+  },
+  "p1": {
+    "en": "1 PLAYER"
+  },
+  "p2": {
+    "en": "2 PLAYERS"
+  },
+  "play": {
+    "en": "PLAY"
+  },
+  "playerWin0": {
+    "en": "PLAYER 1 WINS!"
+  },
+  "playerWin1": {
+    "en": "PLAYER 2 WINS!"
+  },
+  "pauseBut0": {
+    "en": "CONTINUE"
+  },
+  "pauseBut1": {
+    "en": "RESTART"
+  },
+  "reset": {
+    "en": "RESET GAME DATA"
+  },
+  "resetConfirm0": {
+    "en": "Confirm game data reset?"
+  },
+  "resetConfirm1": {
+    "en": "All progress will be lost!"
+  },
+  "upgradeTitle0": {
+    "en": "STRENGTH"
+  },
+  "upgradeTitle1": {
+    "en": "POWER"
+  },
+  "upgradeTitle2": {
+    "en": "JUMP"
+  },
+  "upgradeTitle3": {
+    "en": "SPEED"
+  },
+  "upgradeTitle4": {
+    "en": "UPGRADE ALL"
+  },
+  "upgrade": {
+    "en": "CHOOSE UPGRADE"
+  },
+  "pauseBut2": {
+    "en": "QUIT"
+  },
+  "pShort0": {
+    "en": "P1"
+  },
+  "pShort1": {
+    "en": "P2"
+  },
+  "retry": {
+    "en": "RETRY"
+  }
+}
