@@ -16,7 +16,7 @@ if (!window.config.unityWebglLoaderUrl) {
   var versionSplit = window.config.unityVersion ? window.config.unityVersion.split(".") : [],
     year = versionSplit[0],
     minor = versionSplit[1];
-  window.config.unityWebglLoaderUrl = "/sdkv3/UnityLoader.js";
+  window.config.unityWebglLoaderUrl = "sdkv3/UnityLoader.js";
   // switch (year) {
   //     case "2019":
   //         window.config.unityWebglLoaderUrl = 1 === minor ? "./UnityLoader.2019.1.js" : "./UnityLoader.2019.2.js";
@@ -26,7 +26,7 @@ if (!window.config.unityWebglLoaderUrl) {
   // }
 }
 var sdkScript = document.createElement("script");
-sdkScript.src = "/sdkv3/poki-sdk.js", sdkScript.onload = function() {
+sdkScript.src = "sdkv3/poki-sdk.js", sdkScript.onload = function() {
   var i = document.createElement("script");
   i.src = root + loader, document.body.appendChild(i)
 }, document.body.appendChild(sdkScript);
